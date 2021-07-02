@@ -1,0 +1,38 @@
+#!/usr/bin/env bash
+set -eo pipefail
+
+pushd "${GITHUB_WORKSPACE}" >/dev/null
+    ARGS=()
+
+    if [[ -n "${INPUT_CONFIG}" ]]; then
+        if [[ ! -f "{INPUT_CONFIG}" ]]; then
+            echo "error: config does not exist"
+            exit 1
+        fi
+
+        ARGS+=(--config "${INPUT_CONFIG}")
+    fi
+
+    if [[ -n "${INPUT_RULES}" ]]; then
+        ARGS+=(--rules "${INPUT_RULES}")
+    fi
+
+    if [[ -n "${INPUT_FILTER}" ]]; then
+        ARGS+=(--standards "${INPUT_FILTER}")
+    fi
+
+    if [[ -n "${INPUT_EXCLUDE}" ]]; then
+        ARGS+=(--exclude-standards "${INPUT_EXCLUDE}")
+    fi
+
+    if [[ "${INPUT_VERBOSE}" == "true" ]]; then
+        ARGS+=(-v)
+    fi
+
+    if [[ -n "${INPUT_PATH}" ]]; then
+        ARGS+=("${INPUT_PATH}")
+    fi
+
+    ansible-later --version
+    ansible-later "${ARGS[@]}"
+popd >/dev/null

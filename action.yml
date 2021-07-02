@@ -1,0 +1,41 @@
+---
+name: 'ansible-later'
+description: 'Linting for Ansible roles'
+author: 'actionhippie'
+
+inputs:
+  config:
+    description: |
+      Path to configuration file
+    required: false
+
+  rules:
+    description: |
+      Path to standard rule files
+    required: false
+
+  filter:
+    description: |
+      Limit standards to given IDs
+    required: false
+
+  exclude:
+    description: |
+      Exclude standards by given IDs
+    required: false
+
+  verbose:
+    description: |
+      Increase logging level, defaults to `false`
+    required: false
+
+  path:
+    description: |
+      Path of files/folders to inspect
+    required: false
+
+runs:
+  using: 'docker'
+  image: 'docker://ghcr.io/actionhippie/ansible-later:v1'
+
+...
