@@ -1,6 +1,6 @@
 # ansible-later
 
-[![Current Tag](https://img.shields.io/github/v/tag/actionhippie/ansible-later?sort=semver)](https://github.com/actionhippie/ansible-later) [![Docker Build](https://github.com/actionhippie/ansible-later/workflows/docker/badge.svg)](https://github.com/actionhippie/ansible-later/actions?query=workflow%3Adocker)
+[![Current Tag](https://img.shields.io/github/v/tag/actionhippie/ansible-later?sort=semver)](https://github.com/actionhippie/ansible-later) [![Docker Build](https://github.com/actionhippie/ansible-later/workflows/docker/badge.svg)](https://github.com/actionhippie/ansible-later/actions/workflows/docker.yml)
 
 [GitHub Action](https://github.com/features/actions) to lint Ansible roles.
 
