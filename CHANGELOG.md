@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.2](https://github.com/actionhippie/ansible-later/compare/v1.2.1...v1.2.2) (2023-10-02)
+
+
+### Bugfixes
+
+* **deps:** update dependency ansible-later to v3.3.10 ([5905123](https://github.com/actionhippie/ansible-later/commit/590512319ebdce35df6c26c738f363b0ad87ab15))
+
 ## [1.2.1](https://github.com/actionhippie/ansible-later/compare/v1.2.0...v1.2.1) (2023-09-25)
 
 
