@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/actionhippie/ansible-later/compare/v1.2.2...v1.3.0) (2023-10-16)
+
+
+### Features
+
+* **deps:** update dependency ansible to v8.5.0 ([36b5f82](https://github.com/actionhippie/ansible-later/commit/36b5f820f553af6b56315cf1428550abe7098722))
+
 ## [1.2.2](https://github.com/actionhippie/ansible-later/compare/v1.2.1...v1.2.2) (2023-10-02)
 
 
