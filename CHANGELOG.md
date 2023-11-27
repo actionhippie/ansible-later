@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.0.0](https://github.com/actionhippie/ansible-later/compare/v1.5.0...v2.0.0) (2023-11-27)
+
+
+### Features
+
+* **deps:** update dependency ansible to v9 ([0b473ed](https://github.com/actionhippie/ansible-later/commit/0b473eda7ed75e4006dacb7bb4ed67de8cd3a381))
+
+
+### Bugfixes
+
+* **deps:** update dependency ansible to v9.0.1 ([ba58f55](https://github.com/actionhippie/ansible-later/commit/ba58f552562ccea75aeaad355c03dd2194a6b0e2))
+
 ## [1.5.0](https://github.com/actionhippie/ansible-later/compare/v1.4.1...v1.5.0) (2023-11-13)
 
 
