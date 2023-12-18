@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.2.0](https://github.com/actionhippie/ansible-later/compare/v2.1.0...v2.2.0) (2023-12-18)
+
+
+### Features
+
+* **deps:** update alpine docker tag to v3.19 ([e480d02](https://github.com/actionhippie/ansible-later/commit/e480d02120386ddfdd02e4471c8fc4d2b61ea3e0))
+
+
+### Bugfixes
+
+* force install via pip ([baf1790](https://github.com/actionhippie/ansible-later/commit/baf179013227161cadb9813ee90a328cafdfef82))
+
 ## [2.1.0](https://github.com/actionhippie/ansible-later/compare/v2.0.0...v2.1.0) (2023-12-11)
 
 
