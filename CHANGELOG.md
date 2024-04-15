@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.2.1](https://github.com/actionhippie/ansible-later/compare/v3.2.0...v3.2.1) (2024-04-15)
+
+
+### Bugfixes
+
+* **deps:** update dependency ansible-later to v4.0.3 ([60f30f9](https://github.com/actionhippie/ansible-later/commit/60f30f900273dd0172e7ef3dbd7f017e1ed395e8))
+
 ## [3.2.0](https://github.com/actionhippie/ansible-later/compare/v3.1.0...v3.2.0) (2024-04-01)
 
 
