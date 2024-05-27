@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.4.0](https://github.com/actionhippie/ansible-later/compare/v3.3.0...v3.4.0) (2024-05-27)
+
+
+### Features
+
+* **deps:** update alpine docker tag to v3.20 ([b4cb35e](https://github.com/actionhippie/ansible-later/commit/b4cb35ec3c2060b8162b46369285bc347400cafb))
+* **deps:** update dependency ansible to v9.6.0 ([ef36878](https://github.com/actionhippie/ansible-later/commit/ef36878f2cdbea9106bcdcb107fc778bd9a935df))
+
 ## [3.3.0](https://github.com/actionhippie/ansible-later/compare/v3.2.1...v3.3.0) (2024-04-29)
 
 
