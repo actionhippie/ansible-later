@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.0](https://github.com/actionhippie/ansible-later/compare/v4.0.1...v4.1.0) (2024-06-24)
+
+
+### Features
+
+* **deps:** update dependency ansible to v10.1.0 ([a06d406](https://github.com/actionhippie/ansible-later/commit/a06d406d722a32d5055ab9dfa8751469c78d09a1))
+
 ## [4.0.1](https://github.com/actionhippie/ansible-later/compare/v4.0.0...v4.0.1) (2024-06-17)
 
 
