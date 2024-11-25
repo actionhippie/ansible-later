@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.0.0](https://github.com/actionhippie/ansible-later/compare/v4.6.0...v5.0.0) (2024-11-25)
+
+
+### Features
+
+* **deps:** update dependency ansible to v11 ([#107](https://github.com/actionhippie/ansible-later/issues/107)) ([bff5f12](https://github.com/actionhippie/ansible-later/commit/bff5f1297658ca74619ae932beda1bdd7dd3c29b))
+
 ## [4.6.0](https://github.com/actionhippie/ansible-later/compare/v4.5.0...v4.6.0) (2024-11-11)
 
 
