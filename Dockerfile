@@ -1,4 +1,4 @@
-FROM alpine:3.20
+FROM alpine:3.21
 
 # renovate: datasource=pypi depName=ansible-later
 ENV ANSIBLE_LATER_VERSION=4.0.8
