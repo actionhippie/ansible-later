@@ -1,5 +1,13 @@
 # Changelog
 
+## [5.1.0](https://github.com/actionhippie/ansible-later/compare/v5.0.0...v5.1.0) (2024-12-09)
+
+
+### Features
+
+* **deps:** update alpine docker tag to v3.21 ([#109](https://github.com/actionhippie/ansible-later/issues/109)) ([19a7fbf](https://github.com/actionhippie/ansible-later/commit/19a7fbf751f19cd1558db4aa499ae2e368ba0e90))
+* **deps:** update dependency ansible to v11.1.0 ([#108](https://github.com/actionhippie/ansible-later/issues/108)) ([6bb77b9](https://github.com/actionhippie/ansible-later/commit/6bb77b94e94d3e0b24ad3c2e44101edb907957bb))
+
 ## [5.0.0](https://github.com/actionhippie/ansible-later/compare/v4.6.0...v5.0.0) (2024-11-25)
 
 
