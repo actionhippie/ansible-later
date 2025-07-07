@@ -1,5 +1,19 @@
 # Changelog
 
+## [5.2.0](https://github.com/actionhippie/ansible-later/compare/v5.1.0...v5.2.0) (2025-07-07)
+
+
+### Features
+
+* **deps:** update alpine docker tag to v3.22 ([#115](https://github.com/actionhippie/ansible-later/issues/115)) ([9a61420](https://github.com/actionhippie/ansible-later/commit/9a6142043e8b052ec079be2624b82d024ab1c233))
+* **deps:** update dependency ansible to v11.2.0 ([#110](https://github.com/actionhippie/ansible-later/issues/110)) ([6f459b7](https://github.com/actionhippie/ansible-later/commit/6f459b7e65edc637cafe2edd2b86c69c369109ad))
+* **deps:** update dependency ansible to v11.3.0 ([#111](https://github.com/actionhippie/ansible-later/issues/111)) ([6891131](https://github.com/actionhippie/ansible-later/commit/68911319f34659ede9f8f499bf01832ca3bce29e))
+* **deps:** update dependency ansible to v11.4.0 ([#112](https://github.com/actionhippie/ansible-later/issues/112)) ([fdfebca](https://github.com/actionhippie/ansible-later/commit/fdfebca3fbcab5b88558191e8719382663755481))
+* **deps:** update dependency ansible to v11.5.0 ([#113](https://github.com/actionhippie/ansible-later/issues/113)) ([30c6a35](https://github.com/actionhippie/ansible-later/commit/30c6a354dedd1d0ee799b8793bd8e10b7095dd2a))
+* **deps:** update dependency ansible to v11.6.0 ([#114](https://github.com/actionhippie/ansible-later/issues/114)) ([98fd8a0](https://github.com/actionhippie/ansible-later/commit/98fd8a0496352710c84430f145961c10ea26046b))
+* **deps:** update dependency ansible to v11.7.0 ([#116](https://github.com/actionhippie/ansible-later/issues/116)) ([d14a917](https://github.com/actionhippie/ansible-later/commit/d14a917547950eced5223e017872b825b46cb8d8))
+* replace release workflow and add workflow langserver ref ([0fc8829](https://github.com/actionhippie/ansible-later/commit/0fc8829288c7b5b317697da941d1804ef4af38e1))
+
 ## [5.1.0](https://github.com/actionhippie/ansible-later/compare/v5.0.0...v5.1.0) (2024-12-09)
 
 
