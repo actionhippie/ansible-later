@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.3.0](https://github.com/actionhippie/ansible-later/compare/v5.2.0...v5.3.0) (2025-07-21)
+
+
+### Features
+
+* **deps:** update dependency ansible to v11.8.0 ([#117](https://github.com/actionhippie/ansible-later/issues/117)) ([b180548](https://github.com/actionhippie/ansible-later/commit/b180548b1c15875a62ab4ed4218763106e722b02))
+
 ## [5.2.0](https://github.com/actionhippie/ansible-later/compare/v5.1.0...v5.2.0) (2025-07-07)
 
 
