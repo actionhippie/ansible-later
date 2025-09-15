@@ -1,5 +1,12 @@
 # Changelog
 
+## [6.0.0](https://github.com/actionhippie/ansible-later/compare/v5.4.0...v6.0.0) (2025-09-15)
+
+
+### Features
+
+* **deps:** update dependency ansible to v12 ([#120](https://github.com/actionhippie/ansible-later/issues/120)) ([86c317a](https://github.com/actionhippie/ansible-later/commit/86c317ae2182139646a3525220f44eec663279e1))
+
 ## [5.4.0](https://github.com/actionhippie/ansible-later/compare/v5.3.0...v5.4.0) (2025-08-18)
 
 
