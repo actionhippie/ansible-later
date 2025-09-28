@@ -1,7 +1,11 @@
 ---
+# yaml-language-server: $schema=https://www.schemastore.org/github-action.json
 name: 'ansible-later'
 description: 'Linting for Ansible roles'
 author: 'actionhippie'
+branding:
+  icon: check
+  color: green
 
 inputs:
   config:
