@@ -1,5 +1,12 @@
 # Changelog
 
+## [6.0.1](https://github.com/actionhippie/ansible-later/compare/v6.0.0...v6.0.1) (2025-09-29)
+
+
+### Bugfixes
+
+* **deps:** pin alpine docker tag to 4bcff63 ([#122](https://github.com/actionhippie/ansible-later/issues/122)) ([b5752c9](https://github.com/actionhippie/ansible-later/commit/b5752c9b16cde3258a1784c92987fec510885951))
+
 ## [6.0.0](https://github.com/actionhippie/ansible-later/compare/v5.4.0...v6.0.0) (2025-09-15)
 
 
