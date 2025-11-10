@@ -1,5 +1,12 @@
 # Changelog
 
+## [6.3.0](https://github.com/actionhippie/ansible-later/compare/v6.2.0...v6.3.0) (2025-11-10)
+
+
+### Features
+
+* integrate amd64 and arm64 support ([511152d](https://github.com/actionhippie/ansible-later/commit/511152da740bf519244b8cf8108713f6aeff3540))
+
 ## [6.2.0](https://github.com/actionhippie/ansible-later/compare/v6.1.0...v6.2.0) (2025-11-10)
 
 ## [6.1.0](https://github.com/actionhippie/ansible-later/compare/v6.0.1...v6.1.0) (2025-10-13)
