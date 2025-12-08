@@ -1,5 +1,7 @@
 # Changelog
 
+## [7.1.0](https://github.com/actionhippie/ansible-later/compare/v7.0.0...v7.1.0) (2025-12-08)
+
 ## [7.0.0](https://github.com/actionhippie/ansible-later/compare/v6.3.0...v7.0.0) (2025-11-24)
 
 ## [6.3.0](https://github.com/actionhippie/ansible-later/compare/v6.2.0...v6.3.0) (2025-11-10)
