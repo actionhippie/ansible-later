@@ -4,7 +4,7 @@ FROM alpine:3.23@sha256:25109184c71bdad752c8312a8623239686a9a2071e8825f20acb8f21
 ENV ANSIBLE_LATER_VERSION=4.0.8
 
 # renovate: datasource=pypi depName=ansible
-ENV ANSIBLE_CORE_VERSION=13.2.0
+ENV ANSIBLE_CORE_VERSION=13.3.0
 
 RUN apk add --no-cache bash python3 python3-dev py3-pip && \
     pip3 install --break-system-packages -U ansible-later==${ANSIBLE_LATER_VERSION} ansible==${ANSIBLE_CORE_VERSION} && \
