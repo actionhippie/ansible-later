@@ -1,5 +1,16 @@
 # Changelog
 
+## [7.4.0](https://github.com/actionhippie/ansible-later/compare/v7.3.1...v7.4.0) (2026-02-02)
+
+### Dependencies
+
+* **minor:** update dependency ansible to v13.3.0 ([#150](https://github.com/actionhippie/ansible-later/issues/150)) ([2468292](https://github.com/actionhippie/ansible-later/commit/246829285ad2805388be62ff3355c1ef2bce13a3))
+* **patch:** update alpine:3.23 docker digest to 2510918 ([#149](https://github.com/actionhippie/ansible-later/issues/149)) ([6cdffa1](https://github.com/actionhippie/ansible-later/commit/6cdffa17d9cba554a1e605081b753e5a5900b5fc))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([b155578](https://github.com/actionhippie/ansible-later/commit/b15557852d601fb72a06f89f04bd8bb089b31cec))
+
 ## [7.3.1](https://github.com/actionhippie/ansible-later/compare/v7.3.0...v7.3.1) (2026-01-26)
 
 ### Bugfixes
