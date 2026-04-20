@@ -1,5 +1,17 @@
 # Changelog
 
+## [7.6.1](https://github.com/actionhippie/ansible-later/compare/v7.6.0...v7.6.1) (2026-04-20)
+
+### Dependencies
+
+* **patch:** update alpine:3.23 docker digest to 5b10f43 ([#160](https://github.com/actionhippie/ansible-later/issues/160)) ([ec4e3e8](https://github.com/actionhippie/ansible-later/commit/ec4e3e8fb7872b4c5172bc0495d9b46811ee741f))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([b555aab](https://github.com/actionhippie/ansible-later/commit/b555aab5e07bb1cda0503d3a9c88f025f36d9426))
+* **flake:** updated lockfile [skip ci] ([72f53f4](https://github.com/actionhippie/ansible-later/commit/72f53f45eb393bce5322f9a29a5764265a1e7204))
+* **flake:** updated lockfile [skip ci] ([42e1844](https://github.com/actionhippie/ansible-later/commit/42e18441077913fa7625f2046c9214382fb2b806))
+
 ## [7.6.0](https://github.com/actionhippie/ansible-later/compare/v7.5.0...v7.6.0) (2026-03-30)
 
 ### Dependencies
