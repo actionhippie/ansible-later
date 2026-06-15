@@ -1,5 +1,16 @@
 # Changelog
 
+## [8.1.0](https://github.com/actionhippie/ansible-later/compare/v8.0.0...v8.1.0) (2026-06-15)
+
+### Dependencies
+
+* **minor:** update alpine docker tag to v3.24 ([#164](https://github.com/actionhippie/ansible-later/issues/164)) ([4ee5c50](https://github.com/actionhippie/ansible-later/commit/4ee5c5067b5fe8ea3dc7462a5bab8f45e86e3f8b))
+* **patch:** update docker digests ([#165](https://github.com/actionhippie/ansible-later/issues/165)) ([bb70ac6](https://github.com/actionhippie/ansible-later/commit/bb70ac6b63fcae1ff449771c1ce4eb01d1b78335))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([51d6b90](https://github.com/actionhippie/ansible-later/commit/51d6b901d2eebc7083da46203f5dddd6e10aef07))
+
 ## [8.0.0](https://github.com/actionhippie/ansible-later/compare/v7.8.0...v8.0.0) (2026-06-08)
 
 ### Dependencies
