@@ -1,5 +1,17 @@
 # Changelog
 
+## [8.2.0](https://github.com/actionhippie/ansible-later/compare/v8.1.0...v8.2.0) (2026-06-22)
+
+### Dependencies
+
+* **minor:** update dependency ansible to v14.1.0 ([#169](https://github.com/actionhippie/ansible-later/issues/169)) ([652e26d](https://github.com/actionhippie/ansible-later/commit/652e26d5af330c4dd15858dd70824fd799a5669b))
+* **patch:** update docker digests ([#166](https://github.com/actionhippie/ansible-later/issues/166)) ([77a49b3](https://github.com/actionhippie/ansible-later/commit/77a49b3d277cf5d9e6a366f1959bf8a266152c36))
+* **patch:** update docker digests ([#167](https://github.com/actionhippie/ansible-later/issues/167)) ([f8f6811](https://github.com/actionhippie/ansible-later/commit/f8f68116bdcb4137e4d7580b7393abb32c20c777))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([ec9ec13](https://github.com/actionhippie/ansible-later/commit/ec9ec1321f7761b4f2609aea477e6a7e9a997a81))
+
 ## [8.1.0](https://github.com/actionhippie/ansible-later/compare/v8.0.0...v8.1.0) (2026-06-15)
 
 ### Dependencies

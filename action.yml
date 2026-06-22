@@ -40,6 +40,6 @@ inputs:
 
 runs:
   using: 'docker'
-  image: 'docker://ghcr.io/actionhippie/ansible-later:v8.1.0'
+  image: 'docker://ghcr.io/actionhippie/ansible-later:v8.2.0'
 
 ...
